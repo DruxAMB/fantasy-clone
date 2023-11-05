@@ -1,0 +1,49 @@
+
+     /* FPL-Players */
+          
+     .container-players {
+        margin: 2rem 6.5rem;
+    }
+    .container-players h6{
+        font-size: 1.4rem;
+        font-weight: 600;
+        color: #37003c;
+        margin-bottom: 1rem;
+    }
+    .container-players a{
+        text-decoration: none;
+    }
+    
+    .fpl-players {
+        background-color: #01f9b3;
+        padding: 0.5rem;
+    }
+    .fpl-players-img {
+        overflow: hidden;
+    }
+    .fpl-players img{
+        height: 55vh;
+        transition: all 0.3s;
+        transform: scale(1);
+    }
+    .fpl-players img:hover{
+        transform: scale(1.1);
+    }
+    .fpl {
+        padding: 2rem;
+    }
+    .fpl h4{
+        font-weight: bold;
+        color: #37003c;
+    }
+    .fpl h4:hover{
+        text-decoration: underline;
+    }
+    .fpl p{
+        color: #37003c;
+        font-size: 0.8rem;
+    }
+    .fpl .p-small{
+        font-weight: bold;
+        font-size: 0.7rem;
+    }

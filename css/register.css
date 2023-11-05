@@ -1,0 +1,35 @@
+     
+
+      /* Register  */
+
+    .register {
+        justify-content: space-between;
+        background-color: #37003c;
+        position: relative;
+        margin: 2rem 6.5rem;
+        height: 20vh;
+        padding: 1rem 0;
+    }
+    .register .img1{
+        width: 4rem;
+    }
+    .register .play h5{
+        color:  #00ff87;
+        font-weight: bold;
+    }
+    .register .play p{
+        color: white;
+    }
+    .register button {
+        border: 1px solid transparent;
+        border-radius: 0.2rem;
+        background: #00ff87;
+        width: 16vw;
+        height: 6.7vh;
+        padding: 0.5rem;
+        margin-top: 2rem;
+        box-shadow: 0.5rem 0.5rem 1rem #1e0220;
+    }
+    .register .img2{
+        width: 3rem;
+    }

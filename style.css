@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.notAvailable {
+    display: none;
+}
+
+@media (max-width: 1200px) {
+    body {
+        display: none;
+    }
+}
+

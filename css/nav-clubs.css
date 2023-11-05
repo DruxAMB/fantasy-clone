@@ -1,0 +1,28 @@
+    
+    
+    
+    
+    
+    /* Nav Clubs */
+       
+     .nav-clubs {
+        width: 90%;
+        margin-left: auto;
+        height: 9vh;
+    }
+    .nav-clubs-p {
+        color: rgb(126, 130, 133);
+        font-size: 0.9rem;
+    }
+    .nav-clubs-li {
+        list-style-type: none;
+    }
+    .nav-clubs-a img{
+        height: 9vh;
+        width: 8vh;
+        padding: 0.7rem;
+    }
+    .nav-clubs-a img:hover{
+        scale: 1.3;
+    }
+    

@@ -1,0 +1,63 @@
+
+   /* Banner  */
+
+   .banner {
+    position: relative;
+    height: 38vh;
+    background-color: #1ad2ff;
+}
+.banner-logo {
+    position: absolute;
+    top: 3.8rem;
+    left: 6rem;
+}
+.banner-gradient {
+    height: 38vh;
+    width: 35vw;
+    margin-bottom: 3rem;
+    margin-left: 39.2rem;
+}
+.banner-gradient2 {
+    height: 30vh;
+    width: 9vw;
+    margin-left: 7rem;
+    margin-bottom: 6.5rem;
+}
+.banner-players {
+    position: absolute;
+    right: 7rem;
+    bottom: 0;
+}
+.banner-list {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 0;
+    left: 4rem;
+}
+.banner-list li {
+    border: 1px solid transparent;
+    height: 7vh;
+    list-style-type: none;
+    padding: 0.5rem 1.2rem;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    margin: 0 0.2rem;
+}
+.banner-list a{
+    text-decoration: none;
+    color: #37003c;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+.banner-list-item1 {
+    background-color: white;
+}
+.banner-list-item {
+    background-color: #00ff87;
+}
+.banner-list-item2 {
+    background-color: #963cff;
+}
+.banner-list-item2 a{
+    color: white;
+}

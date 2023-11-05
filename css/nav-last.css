@@ -1,0 +1,23 @@
+    
+    
+    
+    /* Nav Last  */
+
+    .nav-last-ul {
+        margin: 0 7rem;
+    }
+    .nav-last-li {
+        list-style-type: none;
+        padding: 0.6rem 1rem;
+    }
+    .nav-last-li:first-child {
+        border-bottom: 4px solid #3ea9ff;
+    }
+    .nav-last-li:hover{
+        border-bottom: 4px solid #2cbfff;
+    }
+    .nav-last-a {
+        color: rgb(126, 130, 133);
+        font-size: 0.8rem;
+        text-decoration: none;
+    }
